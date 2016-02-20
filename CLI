@@ -1,0 +1,3 @@
+$ dpd create hello-world
+$ cd hello-world
+$ dpd -d
