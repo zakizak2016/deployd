@@ -1,3 +1,6 @@
 $ dpd create hello-world
 $ cd hello-world
 $ dpd -d
+
+
+http://localhost:2403/dashboard/
